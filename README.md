@@ -36,6 +36,17 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+<p>
+  🎓 I'm currently a Junior at the University of Maryland, College Park <br />
+  🚀 Im also interested in Quantum Technology, AI/ML, and Computer Vision <br />
+  <a href="https://www.chess.com/member/yashasvchess" target="_blank">:chess_pawn:</a> I'm a huge Chess Enthusiast (P.S. I'm always ready for a challenge!)
+  📖 Check out what I'm currently reading on <a href="https://www.goodreads.com/user/show/201303564-yashas-vijay" target="_blank"><b>GoodReads!</b></a> <br />
+  🌌 <b>Astronomy</b> — Star-gazing and tracking deep-space discoveries <br />
+  🏀 <b>Basketball</b> — I'm also a die-hard <b>San Antonio Spurs</b> fan! (Wemby is the 🐐)
+</p>
+
+<br />
+
 <h3>Where to find me!</h3>
 <p>
   <a href="https://github.com/yashasvijay" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
