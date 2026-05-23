@@ -1,12 +1,11 @@
 <h1>Hey, Welcome to my Page! :)</h1>
 
 <p>
-  I'm Yashas, a Computer Science Student from
+  I'm Yashas, a Computer Science Student from 
   <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> <b>Princeton, NJ</b>, 
   studying in 
-  <img src="https://cdn-icons-png.flaticon.com/512/555/555582.png" width="13"/> <b>College Park, MD</b>. 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Maryland.svg/1200px-Flag_of_Maryland.svg.png" width="18"/> <b>College Park, MD</b>.
 </p>
-
 
 <h3>Some things I like code with include</h3>
 <p>
