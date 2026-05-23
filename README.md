@@ -2,9 +2,9 @@
 
 <p>
   I'm Yashas, a Computer Science Student from 
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> <b>Princeton, NJ</b>, 
+  <img src="https://img.shields.io/badge/-%F0%9F%87%BA%F0%9F%87...-333333?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMiAxMSI+PHJlY3Qgd2lkdGg9IjIyIiBoZWlnaHQ9IjExIiBmaWxsPSIjYmIzMTQ5Ii8+PHBhdGggZD0iTTAgMWgyMnYxSDAgM2gyMnYxSDAgNWhyMnYxSDAgN2gyMnYxSDAgOWgyMnYxSDAgMTFoMjIiIGZpbGw9IiNmZmZmZmYiLz48cmVjdCB3aWR0aD0iOC44IiBoZWlnaHQ9IjUuOTQiIGZpbGw9IiMzYTM5NmIiLz48L3N2Zz4="/> <b>Princeton, NJ</b>, 
   studying in 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Maryland.svg/1200px-Flag_of_Maryland.svg.png" width="18"/> <b>College Park, MD</b>.
+  <img src="https://img.shields.io/badge/-%F0%9F%93%8C...-333333?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3MDAgNDY3Ij48cGF0aCBmaWxsPSIjZjFjNDBmIiBkPSJNMCAwaDM1MHY0NjNIMHoiLz48cGF0aCBmaWxsPSIjMDAwIiBkPSJNMCAwaDE3NXYyMzNIMHptMTc1IDIzM2gzNTB2MjM0SDE3NXoiLz48cGF0aCBmaWxsPSIjZGUwOTEwIiBkPSJNMzUwIDBoMzUwdjQ2N0gzNTB6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTM1MCAwaDE3NXYyMzNIMzUwem0xNzUgMjMzaDE3NXYyMzRIMTc1eiIvPjwvc3ZnPg=="/> <b>College Park, MD</b>.
 </p>
 
 <h3>Some things I like code with include</h3>
