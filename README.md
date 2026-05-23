@@ -1,5 +1,5 @@
 <a href="https://yashasvijay.com" target="_blank">
-  <img src="banner.gif" alt="Yashas's Personal Banner" width="100%" height="150px" style="object-fit: cover;" />
+  <img src="banner.gif" alt="Yashas's Personal Banner" width="100%" max-height="160px" />
 </a>
 
 <br />
@@ -67,3 +67,5 @@
   <a href="https://yashasvijay.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a> 
   <a href="mailto:mailme.yashas@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<h3>Feel free to reach out and check out my work!</h3>
