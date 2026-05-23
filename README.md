@@ -1,9 +1,25 @@
-<h1>Hey, Welcome to my Page! :)</h1>
+<a href="https://yashasvijay.com" target="_blank">
+  <img src="banner.gif" alt="Yashas's Personal Banner" width="100%" />
+</a>
+
+<br />
+
+<h2>Hey, Welcome to my Page! :)</h2>
 
 <p>
-  I'm Yashas, a Computer Science Student from :us: <b>Princeton, NJ</b>, 
+  I'm Yashas, a Computer Science Student from 🇺🇸 <b>Princeton, NJ</b>, 
   studying in 🐢 <b>College Park, MD</b>.
 </p>
+
+* 🎓 I'm currently a Junior at the University of Maryland, College Park
+* 🚀 I'm also interested in Quantum Technology, AI/ML, and Computer Vision
+<p></p>
+* ♟️ I'm a huge Chess Enthusiast — check out my profile on [Chess.com](https://www.chess.com/member/yashasvchess)! (P.S. I'm always ready for a challenge!)
+* 📖 You can also find what I'm currently reading over on [GoodReads](https://www.goodreads.com/user/show/201303564-yashas-vijay)!
+* 🌌 When I'm offline, I love stargazing and tracking deep-space discoveries in astronomy.
+* 🏀 I am also a die-hard basketball fan cheering for the San Antonio Spurs! (Wemby is the 🐐)
+
+<br />
 
 <h3>Some things I like code with include</h3>
 <p>
@@ -35,15 +51,6 @@
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
-* 🎓 I'm currently a Junior at the University of Maryland, College Park
-* 🚀 I'm also interested in Quantum Technology, AI/ML, and Computer Vision
-
-* ♟️ I'm a huge Chess Enthusiast — check out my profile on [Chess.com](https://www.chess.com/member/yashasvchess)! (P.S. I'm always ready for a challenge!)
-* 📖 You can also find what I'm currently reading over on [GoodReads](https://www.goodreads.com/user/show/201303564-yashas-vijay)!
-
-* 🌌 When I'm offline, I love stargazing and taking photos of deep space.
-* 🏀 I am also a die-hard fan of the San Antonio Spurs! (Wemby is the 🐐)
 
 <br />
 
