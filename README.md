@@ -23,8 +23,8 @@
 <ul>
   <li>♟️ I'm a huge Chess Enthusiast — check out my profile on <a href="https://www.chess.com/member/yashasvchess" target="_blank">Chess.com</a>! (P.S. I'm always ready for a challenge!)</li>
   <li>📖 You can also find what I'm currently reading over on <a href="https://www.goodreads.com/user/show/201303564-yashas-vijay" target="_blank">GoodReads</a>!</li>
-  <li>🌌 When I'm offline, I love stargazing and tracking deep-space discoveries in astronomy.</li>
-  <li>🏀 I am also a die-hard basketball fan cheering for the San Antonio Spurs! (Wemby is the 🐐)</li>
+  <li>🌌 When I'm offline, I love stargazing and taking photos of deep space.</li>
+  <li>🏀 I'm also a die-hard fan of the San Antonio Spurs! (Wemby is the 🐐)</li>
 </ul>
 
 <br />
@@ -70,4 +70,4 @@
   <a href="mailto:mailme.yashas@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3>Feel free to reach out and check out my work!</h3>
+<h3>Feel free to reach out anywhere above and check out my work!</h3>
