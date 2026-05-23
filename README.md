@@ -1,6 +1,8 @@
 <a href="https://yashasvijay.com" target="_blank">
-  <img src="banner.gif" alt="Yashas's Personal Banner" width="100%" max-height="160px" />
+  <img src="banner.gif" alt="Yashas's Personal Banner" width="100%" height="220px" style="object-fit: cover; object-position: center;" />
 </a>
+
+<br />
 
 <br />
 
