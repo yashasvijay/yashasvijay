@@ -38,10 +38,10 @@
 
 * 🎓 I'm currently a Junior at the University of Maryland, College Park
 * 🚀 I'm also interested in Quantum Technology, AI/ML, and Computer Vision
-<p></p>
+
 * ♟️ I'm a huge Chess Enthusiast — check out my profile on [Chess.com](https://www.chess.com/member/yashasvchess)! (P.S. I'm always ready for a challenge!)
 * 📖 You can also find what I'm currently reading over on [GoodReads](https://www.goodreads.com/user/show/201303564-yashas-vijay)!
-<p></p>
+
 * 🌌 When I'm offline, I love stargazing and taking photos of deep space.
 * 🏀 I am also a die-hard fan of the San Antonio Spurs! (Wemby is the 🐐)
 
