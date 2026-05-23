@@ -1,5 +1,5 @@
 <a href="https://yashasvijay.com" target="_blank">
-  <img src="banner.gif" alt="Yashas's Personal Banner" width="100%" />
+  <img src="banner.gif" alt="Yashas's Personal Banner" width="100%" height="150px" style="object-fit: cover;" />
 </a>
 
 <br />
@@ -11,13 +11,19 @@
   studying in 🐢 <b>College Park, MD</b>.
 </p>
 
-* 🎓 I'm currently a Junior at the University of Maryland, College Park
-* 🚀 I'm also interested in Quantum Technology, AI/ML, and Computer Vision
-<p></p>
-* ♟️ I'm a huge Chess Enthusiast — check out my profile on [Chess.com](https://www.chess.com/member/yashasvchess)! (P.S. I'm always ready for a challenge!)
-* 📖 You can also find what I'm currently reading over on [GoodReads](https://www.goodreads.com/user/show/201303564-yashas-vijay)!
-* 🌌 When I'm offline, I love stargazing and tracking deep-space discoveries in astronomy.
-* 🏀 I am also a die-hard basketball fan cheering for the San Antonio Spurs! (Wemby is the 🐐)
+<ul>
+  <li>🎓 I'm currently a Junior at the University of Maryland, College Park</li>
+  <li>🚀 I'm also interested in Quantum Technology, AI/ML, and Computer Vision</li>
+</ul>
+
+<br />
+
+<ul>
+  <li>♟️ I'm a huge Chess Enthusiast — check out my profile on <a href="https://www.chess.com/member/yashasvchess" target="_blank">Chess.com</a>! (P.S. I'm always ready for a challenge!)</li>
+  <li>📖 You can also find what I'm currently reading over on <a href="https://www.goodreads.com/user/show/201303564-yashas-vijay" target="_blank">GoodReads</a>!</li>
+  <li>🌌 When I'm offline, I love stargazing and tracking deep-space discoveries in astronomy.</li>
+  <li>🏀 I am also a die-hard basketball fan cheering for the San Antonio Spurs! (Wemby is the 🐐)</li>
+</ul>
 
 <br />
 
