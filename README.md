@@ -9,14 +9,18 @@
 <h2>Hey, Welcome to my Page! :)</h2>
 
 <p>
-  I'm Yashas, a Computer Science Student from <b>Princeton, NJ</b>, 
-  studying in <b>College Park, MD</b>.
+  I'm Yashas, a Computer Science senior at the <b>University of Maryland, College Park</b> (Machine Learning track), from <b>Princeton, NJ</b>.
+  I build AI agents, computer vision systems, and web apps, and I'm looking for new grad software and AI/ML engineering roles.
 </p>
 
+<h3>Featured projects</h3>
 <ul>
-  <li>I'm currently a Junior at the University of Maryland, College Park</li>
-  <li>I'm also interested in Quantum Technology, AI/ML, and Computer Vision</li>
+  <li><a href="https://github.com/yashasvijay/cv-forge"><b>CV Forge</b></a>: a real-time object tracker that holds 30 FPS on 1080p video while a slower detection model runs in the background (<a href="https://github.com/yashasvijay/cv-forge/blob/main/docs/verified-performance.md">results</a>)</li>
+  <li><a href="https://github.com/yashasvijay/cs-new-grad-2027"><b>New Grad Tracker</b></a>: collects 2027 new grad software postings from 70+ employers' career pages, checked every 5 minutes</li>
+  <li><a href="https://github.com/yashasvijay/EchoRelay"><b>EchoRelay</b></a>: a macOS app that streams audio to speakers on your local network</li>
 </ul>
+<p>More on my site: <a href="https://yashasvijay.com">yashasvijay.com</a></p>
+
 <hr style="border: none; border-top: 1px solid #30363d; margin: 10px 0;" />
 <ul>
   <li>I'm a huge chess enthusiast — check out my profile on <a href="https://www.chess.com/member/yashasvchess" target="_blank">Chess.com</a>! (P.S. I'm always ready for a challenge!)</li>
@@ -27,21 +31,17 @@
 
 <br />
 
-<h3>Some things I like code with include</h3>
+<h3>Tools I build with</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
@@ -49,7 +49,6 @@
 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
